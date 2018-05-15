@@ -1,0 +1,8 @@
+# JetBrains WebStorm
+.idea/
+
+# Others
+*.zip
+*.rar
+*.doc
+*.docx
